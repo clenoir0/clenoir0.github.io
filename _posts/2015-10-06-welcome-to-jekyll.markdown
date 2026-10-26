@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "This is a template!"
-date:   2026-10-25 22:14:00
+title:  "Welcome to Jekyll!"
+date:   2015-10-06 15:39:40
 preview: holder.js/300x300?auto=yes
 ---
 
