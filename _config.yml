@@ -1,12 +1,12 @@
 # Site settings
-title: Chris leNoir
-email: madebylenoir@outlook.com
+title: chris lenoir
+email: madebylenoir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my first website, so to the surprise of no one but myself, it looks like shit.
-  Alas, I'd rather all my time put into my art than this fuckass website.
+  this is my first website, so to the surprise of no one but myself, it looks like shit.
+  alas, i'd rather more time put into my art than my website.
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-letterboxd_username: clenoir
-instagram_username: clxnoir
+youtube_username: editedbyseaside
+instagram_username: editedbythesea
 
 plugins:
   - jekyll-seo-tag
